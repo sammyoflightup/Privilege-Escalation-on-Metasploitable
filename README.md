@@ -1,4 +1,3 @@
-# Privilege-Escalation-on-Metasploitable
 
 # Privilege Escalation on Metasploitable
 
